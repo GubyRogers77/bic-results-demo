@@ -1,0 +1,81 @@
+{
+  "mode": "demo",
+  "endpoint": "",
+  "teams": [
+    {
+      "code": "BIC2-AWA-7322",
+      "team": "AwakeX",
+      "school": "Khaitan Public School",
+      "theme": "Smart Living and Urban Intelligence",
+      "status": "not_selected",
+      "mentor": {
+        "name": "Nisha Yadav",
+        "email": "mentor1@example.invalid"
+      },
+      "students": [
+        {
+          "name": "Aditi Kaundal",
+          "email": "student1-1@example.invalid"
+        },
+        {
+          "name": "Priyanshi Negi",
+          "email": "student1-2@example.invalid"
+        },
+        {
+          "name": "Jhanvi Singh",
+          "email": "student1-3@example.invalid"
+        }
+      ]
+    },
+    {
+      "code": "BIC2-AMP-6253",
+      "team": "AMPER",
+      "school": "Army Public School, Bathinda Military Cantt",
+      "theme": "Smart Living and Urban Intelligence",
+      "status": "selected",
+      "mentor": {
+        "name": "Sen Kamalam",
+        "email": "mentor2@example.invalid"
+      },
+      "students": [
+        {
+          "name": "Gagandeep Singh",
+          "email": "student2-1@example.invalid"
+        },
+        {
+          "name": "Lunasha Bisht",
+          "email": "student2-2@example.invalid"
+        },
+        {
+          "name": "Aayush Gajanan Kharche",
+          "email": "student2-3@example.invalid"
+        }
+      ]
+    },
+    {
+      "code": "BIC2-MED-3245",
+      "team": "Medifly",
+      "school": "Khaitan Public School",
+      "theme": "Healthcare and HealthTech",
+      "status": "waitlist",
+      "mentor": {
+        "name": "Nisha Yadav",
+        "email": "mentor3@example.invalid"
+      },
+      "students": [
+        {
+          "name": "Aarav Sachan",
+          "email": "student3-1@example.invalid"
+        },
+        {
+          "name": "Vidit Mishra",
+          "email": "student3-2@example.invalid"
+        },
+        {
+          "name": "Avya Maheshwari",
+          "email": "student3-3@example.invalid"
+        }
+      ]
+    }
+  ]
+}
